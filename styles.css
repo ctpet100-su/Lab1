@@ -7,7 +7,7 @@ html, body {
   height: 60px;
   line-height: 60px;
   padding: 20px;
-  background-color: #76FF03;
+  background-color: rgb(28, 80, 148)
 }
 
 .header h1 {
@@ -30,7 +30,7 @@ html, body {
 
 .header li a{
   text-decoration: none;
-  color: rgb(224, 129, 18);
+  color: rgb(224, 129, 18)
 }
 
 .content {
