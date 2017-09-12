@@ -37,7 +37,7 @@ html, body {
   width: 70%;
   float: left;
   background-color: #e3e3e3;
-  height: 500px;
+  height: 900px;
 }
 
 .sidebar {
@@ -45,7 +45,7 @@ html, body {
   float: left;
   background-color: #323232;
   color: #fff;
-  height: 500px;
+  height: 900px;
 }
 
 .sidebar p {
